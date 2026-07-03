@@ -1,10 +1,6 @@
 # algogym
- 
-AlgoGym est un fichier PDF d'exercices d'algorithme destiné aux enseignants
 
-Exercices d'apprentissage de la programmation et des structures de bases (if, for, while, fonction...).
-Quelques langages : Python, PHP, Java
+A l'origine ce dépôt était destiné au fichier PDF algoGym (exercices d'algo destiné aux enseignants).
+Désormais, il y a deux fichiers supplémentaires avec des exercices JS et PHP.
 
-Il n'y pas de proposition de correction pour le moment
-
-Quelques exercices de type From To sur quelques concepts objets (à revoir)
+Il n'y pas de proposition de correction.
